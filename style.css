@@ -6,4 +6,5 @@ body {
   h1{text-align:center; color:white;}
   p{text-align:center; color:white;}
   hr{color:white;}
-  h3 {text-align:center; color:white;}
+  h3 {text-align:center; color:white; text-decoration: underline; }
+  h4 {text-align:center; color:white;}
